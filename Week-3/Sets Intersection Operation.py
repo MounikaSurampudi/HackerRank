@@ -1,0 +1,5 @@
+input()
+n= set(input().split())
+input()
+b = set(input().split())
+print(len(n.intersection(b)))
